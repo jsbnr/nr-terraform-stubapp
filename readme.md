@@ -11,7 +11,7 @@ Currently both Java and Node apps are supported. When the app ID is requested th
 Build the java app first time by running the `build.sh` script in modules/app_stub/appstubs/java directory.
 
 ### Node setup
-Run npm install to build the app from the modules/app_stub/appstubs/node directory.
+Run `npm install` to build the app from the modules/app_stub/appstubs/node directory.
 
 
 ### Usage
