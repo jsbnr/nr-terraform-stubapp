@@ -1,0 +1,660 @@
+Jun 17, 2020 17:20:04 +0100 [18198 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:20:04 +0100 [18198 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:20:04 +0100 [18198 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:20:04 +0100 [18198 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:20:04 +0100 [18198 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:20:04 +0100 [18198 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:20:04 +0100 [18198 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:20:05 +0100 [18198 1] com.newrelic INFO: Premain startup complete in 2,416ms
+Jun 17, 2020 17:20:15 +0100 [18198 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:20:15 +0100 [18198 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:23:04 +0100 [18290 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:23:04 +0100 [18290 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:23:04 +0100 [18290 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:23:04 +0100 [18290 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:23:04 +0100 [18290 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:23:04 +0100 [18290 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:23:05 +0100 [18290 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:23:06 +0100 [18290 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:23:07 +0100 [18290 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:23:07 +0100 [18290 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:23:07 +0100 [18290 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:23:07 +0100 [18290 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:23:07 +0100 [18290 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:23:07 +0100 [18290 1] com.newrelic INFO: Premain startup complete in 3,170ms
+Jun 17, 2020 17:23:17 +0100 [18290 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:23:17 +0100 [18290 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:28:31 +0100 [18475 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:28:31 +0100 [18475 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:28:31 +0100 [18475 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:28:31 +0100 [18475 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:28:31 +0100 [18475 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:28:31 +0100 [18475 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:28:32 +0100 [18475 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:28:33 +0100 [18475 1] com.newrelic INFO: Premain startup complete in 3,261ms
+Jun 17, 2020 17:28:43 +0100 [18475 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:28:43 +0100 [18475 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:29:06 +0100 [18524 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:29:06 +0100 [18524 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:29:06 +0100 [18524 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:29:06 +0100 [18524 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:29:06 +0100 [18524 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:29:06 +0100 [18524 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:29:07 +0100 [18524 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:29:08 +0100 [18524 1] com.newrelic INFO: Premain startup complete in 2,559ms
+Jun 17, 2020 17:30:08 +0100 [18524 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:30:08 +0100 [18524 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:32:50 +0100 [18645 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:32:50 +0100 [18645 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:32:50 +0100 [18645 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:32:50 +0100 [18645 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:32:50 +0100 [18645 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:32:50 +0100 [18645 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:32:51 +0100 [18645 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:32:51 +0100 [18645 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:32:52 +0100 [18645 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:32:52 +0100 [18645 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:32:52 +0100 [18645 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:32:52 +0100 [18645 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:32:52 +0100 [18645 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:32:52 +0100 [18645 1] com.newrelic INFO: Premain startup complete in 2,632ms
+Jun 17, 2020 17:32:57 +0100 [18645 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:32:57 +0100 [18645 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:34:25 +0100 [18708 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:34:25 +0100 [18708 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:34:25 +0100 [18708 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:34:25 +0100 [18708 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:34:25 +0100 [18708 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:34:25 +0100 [18708 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:34:26 +0100 [18708 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:34:27 +0100 [18708 1] com.newrelic INFO: Premain startup complete in 2,408ms
+Jun 17, 2020 17:34:42 +0100 [18708 12] com.newrelic INFO: Unable to send data to New Relic during JVM shutdown: the Agent was unable to connect within the 10 second time limit.
+Jun 17, 2020 17:34:42 +0100 [18708 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:34:42 +0100 [18708 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:36:01 +0100 [18782 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:36:01 +0100 [18782 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:36:01 +0100 [18782 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:36:01 +0100 [18782 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:36:01 +0100 [18782 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:36:01 +0100 [18782 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:36:02 +0100 [18782 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:36:03 +0100 [18782 1] com.newrelic INFO: Premain startup complete in 2,709ms
+Jun 17, 2020 17:36:43 +0100 [18782 12] com.newrelic INFO: Unable to send data to New Relic during JVM shutdown: the Agent was unable to connect within the 10 second time limit.
+Jun 17, 2020 17:36:43 +0100 [18782 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:36:43 +0100 [18782 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:36:59 +0100 [18820 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:36:59 +0100 [18820 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:36:59 +0100 [18820 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:36:59 +0100 [18820 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:36:59 +0100 [18820 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:36:59 +0100 [18820 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:37:00 +0100 [18820 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:37:00 +0100 [18820 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:37:01 +0100 [18820 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:37:01 +0100 [18820 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:37:01 +0100 [18820 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:37:01 +0100 [18820 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub1
+Jun 17, 2020 17:37:02 +0100 [18820 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Agent run id: BdM8VlHZ0p42ACWNOyCIAyNe6kckAAIBAAAnIQEAAEmEAgQgiAMiAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMQ
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Agent 18820@C02YR30CLVDL/JavaStub1 connected to collector.newrelic.com:443
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545784610
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub1. Auto instrumentation is enabled.
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:37:03 +0100 [18820 1] com.newrelic INFO: Premain startup complete in 4,383ms
+Jun 17, 2020 17:37:33 +0100 [18820 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub1 immediately
+Jun 17, 2020 17:37:35 +0100 [18820 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:37:35 +0100 [18820 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:39:46 +0100 [18893 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:39:46 +0100 [18893 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:39:46 +0100 [18893 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:39:46 +0100 [18893 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:39:46 +0100 [18893 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:39:46 +0100 [18893 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:39:47 +0100 [18893 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:39:47 +0100 [18893 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:39:48 +0100 [18893 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:39:48 +0100 [18893 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:39:48 +0100 [18893 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:39:48 +0100 [18893 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub2
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Agent run id: BTYesKH35Lw6ACWNOyCICPRe6kecAAIBAAAnIQEAAEnNAgQgiAjzAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMg
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Agent 18893@C02YR30CLVDL/JavaStub2 connected to collector.newrelic.com:443
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786099
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub2. Auto instrumentation is enabled.
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:39:49 +0100 [18893 1] com.newrelic INFO: Premain startup complete in 3,345ms
+Jun 17, 2020 17:39:54 +0100 [18893 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub2 immediately
+Jun 17, 2020 17:39:56 +0100 [18893 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:39:57 +0100 [18893 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:40:59 +0100 [18930 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:40:59 +0100 [18930 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:40:59 +0100 [18930 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:40:59 +0100 [18930 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:40:59 +0100 [18930 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:40:59 +0100 [18930 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:40:59 +0100 [18930 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:41:00 +0100 [18930 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:41:00 +0100 [18930 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:41:00 +0100 [18930 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:41:00 +0100 [18930 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:41:00 +0100 [18930 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 17:41:01 +0100 [18930 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Agent run id: BUQg-l_pqjVrACWNOyCIC1Je6kgUAAIBAAAnIQEAAEnyAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Agent 18930@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:41:02 +0100 [18930 1] com.newrelic INFO: Premain startup complete in 3,599ms
+Jun 17, 2020 17:41:07 +0100 [18930 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 17:41:09 +0100 [18930 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:41:09 +0100 [18930 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 17:54:11 +0100 [19258 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 17:54:11 +0100 [19258 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 17:54:11 +0100 [19258 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 17:54:11 +0100 [19258 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 17:54:11 +0100 [19258 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 17:54:11 +0100 [19258 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 17:54:11 +0100 [19258 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 17:54:12 +0100 [19258 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 17:54:12 +0100 [19258 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 17:54:12 +0100 [19258 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 17:54:12 +0100 [19258 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 17:54:12 +0100 [19258 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 17:54:13 +0100 [19258 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Agent run id: BXtzXdPtU-dqACWNOyCIC1Je6ksgAAIBAAAnIQEAAEs6AgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Agent 19258@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 17:54:14 +0100 [19258 1] com.newrelic INFO: Premain startup complete in 3,657ms
+Jun 17, 2020 17:54:19 +0100 [19258 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 17:54:21 +0100 [19258 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 17:54:21 +0100 [19258 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:00:54 +0100 [19425 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:00:54 +0100 [19425 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:00:54 +0100 [19425 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:00:54 +0100 [19425 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:00:54 +0100 [19425 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:00:54 +0100 [19425 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:00:55 +0100 [19425 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:00:56 +0100 [19425 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:00:56 +0100 [19425 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:00:56 +0100 [19425 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:00:56 +0100 [19425 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:00:56 +0100 [19425 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Agent run id: BZuXq1SqB9ypACWNOyCIC1Je6kyIAAIBAAAnIQEAAEvhAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Agent 19425@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:00:57 +0100 [19425 1] com.newrelic INFO: Premain startup complete in 3,793ms
+Jun 17, 2020 18:00:57 +0100 [19425 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:00:59 +0100 [19425 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:00:59 +0100 [19425 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:05:42 +0100 [19649 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:05:42 +0100 [19649 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:05:42 +0100 [19649 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:05:42 +0100 [19649 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:05:42 +0100 [19649 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:05:42 +0100 [19649 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:05:43 +0100 [19649 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:05:44 +0100 [19649 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:05:44 +0100 [19649 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:05:44 +0100 [19649 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:05:44 +0100 [19649 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:05:44 +0100 [19649 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Agent run id: Bcb49MGKG1TFACWNOyCIC1Je6k20AAIBAAAnIQEAAEzBAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Agent 19649@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:05:45 +0100 [19649 1] com.newrelic INFO: Premain startup complete in 3,509ms
+Jun 17, 2020 18:05:46 +0100 [19649 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:05:47 +0100 [19649 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:05:47 +0100 [19649 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:06:43 +0100 [19684 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:06:43 +0100 [19684 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:06:43 +0100 [19684 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:06:43 +0100 [19684 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:06:43 +0100 [19684 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:06:43 +0100 [19684 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:06:43 +0100 [19684 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:06:44 +0100 [19684 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:06:44 +0100 [19684 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:06:44 +0100 [19684 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:06:44 +0100 [19684 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:06:44 +0100 [19684 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Agent run id: BfeEPuPXvI2lACWNOyCIC1Je6k3wAAIBAAAnIQEAAEzkAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Agent 19684@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:06:45 +0100 [19684 1] com.newrelic INFO: Premain startup complete in 3,268ms
+Jun 17, 2020 18:06:51 +0100 [19684 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:06:53 +0100 [19684 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:06:53 +0100 [19684 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:07:02 +0100 [19693 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:07:02 +0100 [19693 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:07:02 +0100 [19693 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:07:02 +0100 [19693 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:07:02 +0100 [19693 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:07:02 +0100 [19693 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:07:02 +0100 [19693 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:07:03 +0100 [19693 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:07:03 +0100 [19693 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:07:03 +0100 [19693 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:07:03 +0100 [19693 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:07:03 +0100 [19693 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:07:04 +0100 [19693 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Agent run id: BefKHZfMD9n0ACWNOyCIC1Je6k4sAAIBAAAnIQEAAEztAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Agent 19693@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:07:05 +0100 [19693 1] com.newrelic INFO: Premain startup complete in 3,736ms
+Jun 17, 2020 18:07:08 +0100 [19693 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:07:10 +0100 [19693 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:07:10 +0100 [19693 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:07:28 +0100 [19707 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:07:28 +0100 [19707 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:07:28 +0100 [19707 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:07:28 +0100 [19707 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:07:28 +0100 [19707 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:07:28 +0100 [19707 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:07:28 +0100 [19707 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:07:29 +0100 [19707 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:07:29 +0100 [19707 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:07:29 +0100 [19707 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:07:29 +0100 [19707 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:07:29 +0100 [19707 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Agent run id: BQX3gAH082EFACWNOyCIC1Je6k4sAAIBAAAnIQEAAEz7AgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Agent 19707@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:07:30 +0100 [19707 1] com.newrelic INFO: Premain startup complete in 3,272ms
+Jun 17, 2020 18:07:31 +0100 [19707 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:07:32 +0100 [19707 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:07:32 +0100 [19707 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:08:13 +0100 [19718 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:08:13 +0100 [19718 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:08:13 +0100 [19718 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:08:13 +0100 [19718 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:08:13 +0100 [19718 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:08:13 +0100 [19718 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:08:13 +0100 [19718 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:08:14 +0100 [19718 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:08:14 +0100 [19718 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:08:14 +0100 [19718 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:08:14 +0100 [19718 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:08:14 +0100 [19718 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Agent run id: BdKuT4Hf3809ACWNOyCIC1Je6k5oAAIBAAAnIQEAAE0GAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Agent 19718@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:08:15 +0100 [19718 1] com.newrelic INFO: Premain startup complete in 3,586ms
+Jun 17, 2020 18:08:15 +0100 [19718 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:08:17 +0100 [19718 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:08:17 +0100 [19718 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:08:55 +0100 [19751 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:08:55 +0100 [19751 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:08:55 +0100 [19751 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:08:55 +0100 [19751 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:08:55 +0100 [19751 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:08:55 +0100 [19751 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:08:55 +0100 [19751 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:08:56 +0100 [19751 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:08:56 +0100 [19751 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:08:56 +0100 [19751 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:08:56 +0100 [19751 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:08:56 +0100 [19751 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application JavaStub3
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Agent run id: BdaW5ViwgeKYACWNOyCIC1Je6k5oAAIBAAAnIQEAAE0nAgQgiAtRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwACUphdmFTdHViMw
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Agent 19751@C02YR30CLVDL/JavaStub3 connected to collector.newrelic.com:443
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545786705
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Real user monitoring is enabled for application JavaStub3. Auto instrumentation is enabled.
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:08:57 +0100 [19751 1] com.newrelic INFO: Premain startup complete in 3,077ms
+Jun 17, 2020 18:09:03 +0100 [19751 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for JavaStub3 immediately
+Jun 17, 2020 18:09:04 +0100 [19751 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:09:04 +0100 [19751 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:12:15 +0100 [19856 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:12:15 +0100 [19856 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:12:15 +0100 [19856 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:12:15 +0100 [19856 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:12:15 +0100 [19856 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:12:15 +0100 [19856 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:12:16 +0100 [19856 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:12:16 +0100 [19856 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:12:17 +0100 [19856 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:12:17 +0100 [19856 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:12:17 +0100 [19856 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:12:17 +0100 [19856 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TestStub9java
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Agent run id: BWPyY0b6UHKOACWNOyCIU9Je6k9YAAIBAAAnIQEAAE2QAgQgiFPRAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADVRlc3RTdHViOWphdmE
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Agent 19856@C02YR30CLVDL/TestStub9java connected to collector.newrelic.com:443
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545805265
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Real user monitoring is enabled for application TestStub9java. Auto instrumentation is enabled.
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:12:18 +0100 [19856 1] com.newrelic INFO: Premain startup complete in 3,672ms
+Jun 17, 2020 18:12:23 +0100 [19856 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TestStub9java immediately
+Jun 17, 2020 18:12:25 +0100 [19856 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:12:26 +0100 [19856 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:12:50 +0100 [19880 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:12:50 +0100 [19880 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:12:50 +0100 [19880 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:12:50 +0100 [19880 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:12:50 +0100 [19880 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:12:50 +0100 [19880 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:12:50 +0100 [19880 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:12:51 +0100 [19880 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:12:51 +0100 [19880 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:12:51 +0100 [19880 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:12:51 +0100 [19880 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:12:51 +0100 [19880 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TestStub9java1
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Agent run id: BbUSAvfKcQeGACWNOyCIVRde6k9YAAIBAAAnIQEAAE2oAgQgiFUVAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADlRlc3RTdHViOWphdmEx
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Agent 19880@C02YR30CLVDL/TestStub9java1 connected to collector.newrelic.com:443
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545805589
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Real user monitoring is enabled for application TestStub9java1. Auto instrumentation is enabled.
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:12:52 +0100 [19880 1] com.newrelic INFO: Premain startup complete in 3,116ms
+Jun 17, 2020 18:12:57 +0100 [19880 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TestStub9java1 immediately
+Jun 17, 2020 18:12:59 +0100 [19880 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:12:59 +0100 [19880 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:13:47 +0100 [19971 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:13:47 +0100 [19971 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:13:47 +0100 [19971 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:13:47 +0100 [19971 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:13:47 +0100 [19971 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:13:47 +0100 [19971 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:13:48 +0100 [19971 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:13:48 +0100 [19971 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:13:49 +0100 [19971 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:13:49 +0100 [19971 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:13:49 +0100 [19971 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:13:49 +0100 [19971 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraformStubJava1
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Agent run id: Bdh7BY-MhFWbACWNOyCIV9le6k-UAAIBAAAnIQEAAE4DAgQgiFfYAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwAElRlcnJhZm9ybVN0dWJKYXZhMQ
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Agent 19971@C02YR30CLVDL/TerraformStubJava1 connected to collector.newrelic.com:443
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545806296
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Real user monitoring is enabled for application TerraformStubJava1. Auto instrumentation is enabled.
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:13:50 +0100 [19971 1] com.newrelic INFO: Premain startup complete in 3,615ms
+Jun 17, 2020 18:13:55 +0100 [19971 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraformStubJava1 immediately
+Jun 17, 2020 18:13:57 +0100 [19971 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:13:58 +0100 [19971 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 17, 2020 18:14:46 +0100 [20071 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 17, 2020 18:14:46 +0100 [20071 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 17, 2020 18:14:46 +0100 [20071 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 17, 2020 18:14:46 +0100 [20071 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 17, 2020 18:14:46 +0100 [20071 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 17, 2020 18:14:46 +0100 [20071 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 17, 2020 18:14:47 +0100 [20071 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 17, 2020 18:14:48 +0100 [20071 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 17, 2020 18:14:48 +0100 [20071 1] com.newrelic INFO: Setting audit_mode to false
+Jun 17, 2020 18:14:48 +0100 [20071 1] com.newrelic INFO: Setting protocol to "https"
+Jun 17, 2020 18:14:48 +0100 [20071 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/appstubs/java/newrelic/./newrelic.yml
+Jun 17, 2020 18:14:48 +0100 [20071 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraformStubJava2
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Agent run id: BX7pYwvhTga1ACWNOyCIWcde6k_QAAIBAAAnIQEAAE5nAgQgiFnGAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwAElRlcnJhZm9ybVN0dWJKYXZhMg
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Agent 20071@C02YR30CLVDL/TerraformStubJava2 connected to collector.newrelic.com:443
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/545806790
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Real user monitoring is enabled for application TerraformStubJava2. Auto instrumentation is enabled.
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 17, 2020 18:14:49 +0100 [20071 1] com.newrelic INFO: Premain startup complete in 3,321ms
+Jun 17, 2020 18:14:54 +0100 [20071 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraformStubJava2 immediately
+Jun 17, 2020 18:14:55 +0100 [20071 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 17, 2020 18:14:56 +0100 [20071 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 18, 2020 11:42:23 +0100 [31602 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 18, 2020 11:42:23 +0100 [31602 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 18, 2020 11:42:23 +0100 [31602 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 18, 2020 11:42:23 +0100 [31602 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 18, 2020 11:42:23 +0100 [31602 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 18, 2020 11:42:23 +0100 [31602 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 18, 2020 11:42:24 +0100 [31602 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 18, 2020 11:42:25 +0100 [31602 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 18, 2020 11:42:25 +0100 [31602 1] com.newrelic INFO: Setting audit_mode to false
+Jun 18, 2020 11:42:25 +0100 [31602 1] com.newrelic INFO: Setting protocol to "https"
+Jun 18, 2020 11:42:25 +0100 [31602 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/./newrelic.yml
+Jun 18, 2020 11:42:25 +0100 [31602 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraJavaApp1
+Jun 18, 2020 11:42:26 +0100 [31602 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Agent run id: BTd25qWvtO-RACWNOyCQnCte60VwAAIBAAAnIQEAAHtyAgQgkJwqAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADVRlcnJhSmF2YUFwcDE
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Agent 31602@C02YR30CLVDL/TerraJavaApp1 connected to collector.newrelic.com:443
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/546348074
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Real user monitoring is enabled for application TerraJavaApp1. Auto instrumentation is enabled.
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 18, 2020 11:42:27 +0100 [31602 1] com.newrelic INFO: Premain startup complete in 3,917ms
+Jun 18, 2020 11:42:32 +0100 [31602 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraJavaApp1 immediately
+Jun 18, 2020 11:42:33 +0100 [31602 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 18, 2020 11:42:34 +0100 [31602 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 18, 2020 12:02:19 +0100 [32425 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 18, 2020 12:02:19 +0100 [32425 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 18, 2020 12:02:19 +0100 [32425 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 18, 2020 12:02:19 +0100 [32425 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 18, 2020 12:02:19 +0100 [32425 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 18, 2020 12:02:19 +0100 [32425 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 18, 2020 12:02:20 +0100 [32425 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 18, 2020 12:02:20 +0100 [32425 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 18, 2020 12:02:21 +0100 [32425 1] com.newrelic INFO: Setting audit_mode to false
+Jun 18, 2020 12:02:21 +0100 [32425 1] com.newrelic INFO: Setting protocol to "https"
+Jun 18, 2020 12:02:21 +0100 [32425 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/./newrelic.yml
+Jun 18, 2020 12:02:21 +0100 [32425 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraJavaApp2
+Jun 18, 2020 12:02:21 +0100 [32425 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Agent run id: Be_k9_fx_q00ACWNOyCQzLNe60ogAAIBAAAnIQEAAH6pAgQgkMyyAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADVRlcnJhSmF2YUFwcDI
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Agent 32425@C02YR30CLVDL/TerraJavaApp2 connected to collector.newrelic.com:443
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/546360498
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Real user monitoring is enabled for application TerraJavaApp2. Auto instrumentation is enabled.
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 18, 2020 12:02:22 +0100 [32425 1] com.newrelic INFO: Premain startup complete in 3,566ms
+Jun 18, 2020 12:02:27 +0100 [32425 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraJavaApp2 immediately
+Jun 18, 2020 12:02:28 +0100 [32425 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 18, 2020 12:02:28 +0100 [32425 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 18, 2020 12:04:11 +0100 [32511 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 18, 2020 12:04:11 +0100 [32511 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 18, 2020 12:04:11 +0100 [32511 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 18, 2020 12:04:11 +0100 [32511 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 18, 2020 12:04:11 +0100 [32511 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 18, 2020 12:04:11 +0100 [32511 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 18, 2020 12:04:11 +0100 [32511 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 18, 2020 12:04:12 +0100 [32511 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 18, 2020 12:04:12 +0100 [32511 1] com.newrelic INFO: Setting audit_mode to false
+Jun 18, 2020 12:04:12 +0100 [32511 1] com.newrelic INFO: Setting protocol to "https"
+Jun 18, 2020 12:04:12 +0100 [32511 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/./newrelic.yml
+Jun 18, 2020 12:04:12 +0100 [32511 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraJavaApp2b
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Agent run id: BYuoE4Hqt2lQACWNOyCQz49e60qYAAIBAAAnIQEAAH7_AgQgkM-OAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADlRlcnJhSmF2YUFwcDJi
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Agent 32511@C02YR30CLVDL/TerraJavaApp2b connected to collector.newrelic.com:443
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/546361230
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Real user monitoring is enabled for application TerraJavaApp2b. Auto instrumentation is enabled.
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 18, 2020 12:04:13 +0100 [32511 1] com.newrelic INFO: Premain startup complete in 3,243ms
+Jun 18, 2020 12:04:18 +0100 [32511 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraJavaApp2b immediately
+Jun 18, 2020 12:04:20 +0100 [32511 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 18, 2020 12:04:20 +0100 [32511 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 18, 2020 12:04:35 +0100 [32531 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 18, 2020 12:04:35 +0100 [32531 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 18, 2020 12:04:35 +0100 [32531 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 18, 2020 12:04:35 +0100 [32531 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 18, 2020 12:04:35 +0100 [32531 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 18, 2020 12:04:35 +0100 [32531 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 18, 2020 12:04:36 +0100 [32531 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 18, 2020 12:04:36 +0100 [32531 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Setting audit_mode to false
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Setting protocol to "https"
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/./newrelic.yml
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraJavaApp2c
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Agent run id: BeOPGR33JkDYACWNOyCQ0F9e60qYAAIBAAAnIQEAAH8TAgQgkNBeAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADlRlcnJhSmF2YUFwcDJj
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Agent 32531@C02YR30CLVDL/TerraJavaApp2c connected to collector.newrelic.com:443
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/546361438
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Real user monitoring is enabled for application TerraJavaApp2c. Auto instrumentation is enabled.
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 18, 2020 12:04:37 +0100 [32531 1] com.newrelic INFO: Premain startup complete in 2,844ms
+Jun 18, 2020 12:04:43 +0100 [32531 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraJavaApp2c immediately
+Jun 18, 2020 12:04:44 +0100 [32531 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 18, 2020 12:04:44 +0100 [32531 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 18, 2020 12:05:23 +0100 [32612 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 18, 2020 12:05:23 +0100 [32612 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 18, 2020 12:05:23 +0100 [32612 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 18, 2020 12:05:23 +0100 [32612 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 18, 2020 12:05:23 +0100 [32612 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 18, 2020 12:05:23 +0100 [32612 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 18, 2020 12:05:24 +0100 [32612 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 18, 2020 12:05:24 +0100 [32612 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 18, 2020 12:05:24 +0100 [32612 1] com.newrelic INFO: Setting audit_mode to false
+Jun 18, 2020 12:05:24 +0100 [32612 1] com.newrelic INFO: Setting protocol to "https"
+Jun 18, 2020 12:05:25 +0100 [32612 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/./newrelic.yml
+Jun 18, 2020 12:05:25 +0100 [32612 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application TerraJavaApp3
+Jun 18, 2020 12:05:25 +0100 [32612 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Agent run id: Ba4R3lHccRpBACWNOyCQ0lVe60rUAAIBAAAnIQEAAH9kAgQgkNJUAwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwADVRlcnJhSmF2YUFwcDM
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Agent 32612@C02YR30CLVDL/TerraJavaApp3 connected to collector.newrelic.com:443
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/546361940
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Real user monitoring is enabled for application TerraJavaApp3. Auto instrumentation is enabled.
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 18, 2020 12:05:26 +0100 [32612 1] com.newrelic INFO: Premain startup complete in 3,155ms
+Jun 18, 2020 12:05:31 +0100 [32612 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for TerraJavaApp3 immediately
+Jun 18, 2020 12:05:32 +0100 [32612 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 18, 2020 12:05:32 +0100 [32612 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jun 18, 2020 12:12:58 +0100 [32928 1] com.newrelic INFO: Writing to New Relic log file: /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/logs/newrelic_agent.log
+Jun 18, 2020 12:12:58 +0100 [32928 1] com.newrelic INFO: JRE vendor Oracle Corporation version 12.0.2
+Jun 18, 2020 12:12:58 +0100 [32928 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 12.0.2+10
+Jun 18, 2020 12:12:58 +0100 [32928 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+Jun 18, 2020 12:12:58 +0100 [32928 1] com.newrelic INFO: Agent Host: C02YR30CLVDL IP: 92.242.132.24
+Jun 18, 2020 12:12:58 +0100 [32928 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+Jun 18, 2020 12:12:59 +0100 [32928 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jun 18, 2020 12:13:00 +0100 [32928 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jun 18, 2020 12:13:00 +0100 [32928 1] com.newrelic INFO: Setting audit_mode to false
+Jun 18, 2020 12:13:00 +0100 [32928 1] com.newrelic INFO: Setting protocol to "https"
+Jun 18, 2020 12:13:00 +0100 [32928 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/jbuchanan/Documents/git/experiments/terraform/terraform-stubapp/modules/app_stub/appstubs/java/newrelic/./newrelic.yml
+Jun 18, 2020 12:13:00 +0100 [32928 1] com.newrelic INFO: Host name is C02YR30CLVDL, display host C02YR30CLVDL for application ExampleJavaApp1
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Agent run id: BbwMPcmRhAKqACWNOyCQ5Lte60y0AAIBAAAnIQEAAICgAgQgkOS6AwAGNS4xMy4wAAxDMDJZUjMwQ0xWREwAD0V4YW1wbGVKYXZhQXBwMQ
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Agent 32928@C02YR30CLVDL/ExampleJavaApp1 connected to collector.newrelic.com:443
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2460987/applications/546366650
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Real user monitoring is enabled for application ExampleJavaApp1. Auto instrumentation is enabled.
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7382f612
+Jun 18, 2020 12:13:01 +0100 [32928 1] com.newrelic INFO: Premain startup complete in 3,531ms
+Jun 18, 2020 12:13:06 +0100 [32928 12] com.newrelic.agent.HarvestServiceImpl INFO: Sending metrics for ExampleJavaApp1 immediately
+Jun 18, 2020 12:13:07 +0100 [32928 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jun 18, 2020 12:13:08 +0100 [32928 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
